@@ -6,7 +6,7 @@
   "homepage": "https://kikeestrada.github.io/esencialcr",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "../node_modules/.bin/gh-pages -d public"
+    "deploy": "gh-pages -d public"
   },
   "dependencies": {
     "gh-pages": "^2.1.1"
