@@ -1,0 +1,24 @@
+{
+  "name": "esencialcr",
+  "version": "1.0.0",
+  "description": "gh-pages link https://kikeestrada.github.io/esencialcr/",
+  "main": "index.js",
+  "homepage": "https://kikeestrada.github.io/esencialcr",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "../node_modules/.bin/gh-pages -d public"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikeestrada/esencialcr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikeestrada/esencialcr/issues"
+  }
+}
